@@ -1,2 +1,4 @@
 # portfolio
-front end developer portfolio. Html, Css
+Front end developer portfolio.
+
+Hello this was developed purely using Html,Css without any libraries,frameworks or Javascript.
