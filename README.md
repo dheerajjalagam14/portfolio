@@ -1,4 +1,5 @@
 # portfolio
 Front end developer portfolio.
 
-Hello this was developed purely using Html, Css without any libraries,frameworks or Javascript.
+
+This was developed purely using Html and Css without any libraries, frameworks or javascript.
